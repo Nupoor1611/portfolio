@@ -2,8 +2,8 @@
 
 A responsive, performance-focused personal portfolio built with **React 18 + Vite**.
 
-**Live site:** _add your deployed URL here_
-**Repository:** _add your GitHub link here_
+**Live site:** https://nupoor-portfolio.netlify.app/
+**Repository:**https://github.com/Nupoor1611/portfolio
 
 ## Sections
 
@@ -34,15 +34,15 @@ Requires Node 18+.
 
 ## Performance optimisations
 
-| Technique | Where |
-|---|---|
-| Component lazy loading | `React.lazy` + `Suspense` for About, Projects, Skills, Resume, Contact (separate JS chunks) |
-| Render-on-approach | `LazySection` uses `IntersectionObserver` (300px margin) so chunks load only near the viewport |
-| Image lazy loading | `loading="lazy"`, `decoding="async"` and fixed `width`/`height` to prevent layout shift |
-| Minification | Vite production build: esbuild JS minification and CSS minification |
-| Vendor chunking | React split into its own long-cache chunk |
-| Self-hosted fonts | Latin subsets only load for the characters used, `font-display: swap`, no third-party requests |
-| Caching | Hashed filenames + `immutable` cache headers (`netlify.toml`, `vercel.json`) |
+| Technique              | Where                                                                                          |
+| ---------------------- | ---------------------------------------------------------------------------------------------- |
+| Component lazy loading | `React.lazy` + `Suspense` for About, Projects, Skills, Resume, Contact (separate JS chunks)    |
+| Render-on-approach     | `LazySection` uses `IntersectionObserver` (300px margin) so chunks load only near the viewport |
+| Image lazy loading     | `loading="lazy"`, `decoding="async"` and fixed `width`/`height` to prevent layout shift        |
+| Minification           | Vite production build: esbuild JS minification and CSS minification                            |
+| Vendor chunking        | React split into its own long-cache chunk                                                      |
+| Self-hosted fonts      | Latin subsets only load for the characters used, `font-display: swap`, no third-party requests |
+| Caching                | Hashed filenames + `immutable` cache headers (`netlify.toml`, `vercel.json`)                   |
 
 Production build output (gzip): app JS ≈ 6 kB, React ≈ 45 kB, CSS ≈ 6 kB, each section chunk ≈ 0.3–1 kB, plus two small font files.
 
@@ -57,19 +57,22 @@ Production build output (gzip): app JS ≈ 6 kB, React ≈ 45 kB, CSS ≈ 6 kB, 
 Pick one.
 
 ### Netlify (recommended)
+
 1. Push this repo to GitHub.
-2. Netlify → *Add new site* → *Import from Git* → choose the repo. Build settings are read from `netlify.toml` (`npm run build`, publish `dist`).
-3. **Custom domain:** *Domain management → Add a domain*, then either point your registrar's nameservers to Netlify or add the DNS records Netlify shows (A/ALIAS for apex, CNAME for `www`).
-4. **SSL:** *Domain management → HTTPS → Verify DNS / Provision certificate* (free Let's Encrypt, auto-renews). Enable *Force HTTPS*.
+2. Netlify → _Add new site_ → _Import from Git_ → choose the repo. Build settings are read from `netlify.toml` (`npm run build`, publish `dist`).
+3. **Custom domain:** _Domain management → Add a domain_, then either point your registrar's nameservers to Netlify or add the DNS records Netlify shows (A/ALIAS for apex, CNAME for `www`).
+4. **SSL:** _Domain management → HTTPS → Verify DNS / Provision certificate_ (free Let's Encrypt, auto-renews). Enable _Force HTTPS_.
 
 ### Vercel
-1. *Add New → Project* → import the repo; framework preset **Vite** (config in `vercel.json`).
-2. *Settings → Domains* → add your domain and create the DNS record Vercel shows. SSL is issued automatically.
+
+1. _Add New → Project_ → import the repo; framework preset **Vite** (config in `vercel.json`).
+2. _Settings → Domains_ → add your domain and create the DNS record Vercel shows. SSL is issued automatically.
 
 ### GitHub Pages
-1. Repo → *Settings → Pages → Source: GitHub Actions*.
+
+1. Repo → _Settings → Pages → Source: GitHub Actions_.
 2. Push to `main`; `.github/workflows/deploy.yml` builds with `VITE_BASE=/<repo>/` and deploys.
-3. *Custom domain* in Pages settings, then tick *Enforce HTTPS*.
+3. _Custom domain_ in Pages settings, then tick _Enforce HTTPS_.
 
 ## Post-deploy test checklist
 
@@ -91,8 +94,8 @@ Pick one.
 
 ## Screenshots
 
-| Desktop (1280px) | Tablet (768px) | Phone (390px) |
-|---|---|---|
+| Desktop (1280px)                  | Tablet (768px)                  | Phone (390px)                  |
+| --------------------------------- | ------------------------------- | ------------------------------ |
 | ![Desktop](docs/desktop-hero.png) | ![Tablet](docs/tablet-hero.png) | ![Phone](docs/mobile-hero.png) |
 
 Full-page captures: [`docs/desktop-full.png`](docs/desktop-full.png), [`docs/mobile-full.png`](docs/mobile-full.png).
