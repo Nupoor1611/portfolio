@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Illustration of a sales dashboard with a pipeline and a lead list"><rect width="800" height="600" fill="#E3E6F7"/>
+<rect x="48" y="48" width="704" height="504" rx="14" fill="#F8F9FD"/>
+<path d="M48 62a14 14 0 0 1 14-14h120v504H62a14 14 0 0 1-14-14z" fill="#1B1F4B"/>
+<rect x="72" y="76" width="72" height="14" rx="7" fill="#F5B000"/>
+<g fill="#7A80B8"><rect x="72" y="130" width="84" height="9" rx="4.5"/><rect x="72" y="162" width="64" height="9" rx="4.5"/><rect x="72" y="194" width="76" height="9" rx="4.5"/><rect x="72" y="226" width="58" height="9" rx="4.5"/></g>
+<rect x="72" y="124" width="92" height="21" rx="6" fill="#fff" opacity=".12"/>
+<g><rect x="208" y="76" width="160" height="82" rx="10" fill="#FFF1CC"/><rect x="226" y="96" width="60" height="9" rx="4.5" fill="#1B1F4B"/><rect x="226" y="118" width="96" height="22" rx="6" fill="#E09A00"/>
+<rect x="384" y="76" width="160" height="82" rx="10" fill="#D5D9F2"/><rect x="402" y="96" width="70" height="9" rx="4.5" fill="#1B1F4B"/><rect x="402" y="118" width="80" height="22" rx="6" fill="#3A3F8F"/>
+<rect x="560" y="76" width="160" height="82" rx="10" fill="#FBE3E9"/><rect x="578" y="96" width="54" height="9" rx="4.5" fill="#1B1F4B"/><rect x="578" y="118" width="100" height="22" rx="6" fill="#D6456B"/></g>
+<rect x="208" y="180" width="336" height="190" rx="10" fill="#fff"/>
+<path d="M232 330l50-52 44 26 56-70 52 34 58-62" fill="none" stroke="#3A3F8F" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="440" cy="260" r="7" fill="#F5B000"/><circle cx="498" cy="222" r="7" fill="#F5B000"/>
+<rect x="560" y="180" width="160" height="190" rx="10" fill="#fff"/>
+<rect x="578" y="200" width="124" height="22" rx="4" fill="#3A3F8F"/><rect x="590" y="232" width="100" height="22" rx="4" fill="#5C62B0"/><rect x="602" y="264" width="76" height="22" rx="4" fill="#F5B000"/><rect x="614" y="296" width="52" height="22" rx="4" fill="#D6456B"/>
+<rect x="208" y="392" width="512" height="132" rx="10" fill="#fff"/>
+<g fill="#1B1F4B"><rect x="228" y="414" width="110" height="10" rx="5"/><rect x="228" y="450" width="94" height="10" rx="5"/><rect x="228" y="486" width="124" height="10" rx="5"/></g>
+<g fill="#C9CDF2"><rect x="400" y="414" width="130" height="10" rx="5"/><rect x="400" y="450" width="104" height="10" rx="5"/><rect x="400" y="486" width="116" height="10" rx="5"/></g>
+<rect x="628" y="410" width="72" height="18" rx="9" fill="#F5B000"/><rect x="628" y="446" width="72" height="18" rx="9" fill="#D5D9F2"/><rect x="628" y="482" width="72" height="18" rx="9" fill="#FBE3E9"/>
+</svg>

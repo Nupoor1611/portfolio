@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Illustration of an attendance app on a phone and a weekly timesheet"><rect width="800" height="600" fill="#E3E6F7"/>
+<rect x="84" y="44" width="250" height="512" rx="34" fill="#1B1F4B"/><rect x="98" y="60" width="222" height="480" rx="24" fill="#F8F9FD"/>
+<rect x="150" y="68" width="118" height="14" rx="7" fill="#1B1F4B"/>
+<rect x="118" y="108" width="110" height="12" rx="6" fill="#1B1F4B"/><rect x="118" y="130" width="76" height="9" rx="4.5" fill="#7A80B8"/>
+<circle cx="209" cy="252" r="70" fill="#FFF1CC"/><circle cx="209" cy="252" r="52" fill="#F5B000"/><path d="M186 254l16 16 30-34" fill="none" stroke="#1B1F4B" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="118" y="346" width="182" height="40" rx="8" fill="#E3E6F7"/><rect x="118" y="396" width="182" height="40" rx="8" fill="#E3E6F7"/>
+<rect x="130" y="361" width="70" height="9" rx="4.5" fill="#1B1F4B"/><rect x="130" y="411" width="90" height="9" rx="4.5" fill="#1B1F4B"/><rect x="262" y="359" width="24" height="14" rx="7" fill="#D6456B"/><rect x="262" y="409" width="24" height="14" rx="7" fill="#7A80B8"/>
+<rect x="118" y="470" width="182" height="40" rx="10" fill="#1B1F4B"/>
+<rect x="378" y="84" width="342" height="432" rx="14" fill="#F8F9FD"/>
+<rect x="404" y="112" width="140" height="14" rx="7" fill="#1B1F4B"/>
+<g fill="#7A80B8"><rect x="404" y="162" width="36" height="8" rx="4"/><rect x="404" y="214" width="36" height="8" rx="4"/><rect x="404" y="266" width="36" height="8" rx="4"/><rect x="404" y="318" width="36" height="8" rx="4"/><rect x="404" y="370" width="36" height="8" rx="4"/></g>
+<rect x="456" y="154" width="236" height="22" rx="11" fill="#E3E6F7"/><rect x="456" y="154" width="196" height="22" rx="11" fill="#3A3F8F"/>
+<rect x="456" y="206" width="236" height="22" rx="11" fill="#E3E6F7"/><rect x="456" y="206" width="214" height="22" rx="11" fill="#3A3F8F"/>
+<rect x="456" y="258" width="236" height="22" rx="11" fill="#E3E6F7"/><rect x="456" y="258" width="168" height="22" rx="11" fill="#3A3F8F"/>
+<rect x="456" y="310" width="236" height="22" rx="11" fill="#E3E6F7"/><rect x="456" y="310" width="204" height="22" rx="11" fill="#3A3F8F"/>
+<rect x="456" y="362" width="236" height="22" rx="11" fill="#E3E6F7"/><rect x="456" y="362" width="120" height="22" rx="11" fill="#F5B000"/>
+<rect x="404" y="428" width="288" height="52" rx="10" fill="#FBE3E9"/><rect x="420" y="446" width="120" height="9" rx="4.5" fill="#D6456B"/><rect x="420" y="462" width="80" height="7" rx="3.5" fill="#D6456B" opacity=".5"/><rect x="624" y="444" width="52" height="20" rx="10" fill="#D6456B"/>
+</svg>

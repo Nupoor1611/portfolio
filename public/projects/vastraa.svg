@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Illustration of a clothing store product grid"><defs><g id="dress"><path d="M-16-44h32l-3 34 28 54h-82l28-54z"/></g><g id="kurta"><path d="M-40-38l24-8q16 14 32 0l24 8 12 30-20 8v50h-64v-50l-20-8z"/></g><g id="trousers"><path d="M-26-44h52l4 90h-24l-6-52-6 52h-24z"/></g></defs>
+<rect width="800" height="600" fill="#E3E6F7"/>
+<rect x="48" y="48" width="704" height="504" rx="14" fill="#F8F9FD"/>
+<path d="M48 62a14 14 0 0 1 14-14h676a14 14 0 0 1 14 14v30H48z" fill="#1B1F4B"/>
+<circle cx="74" cy="70" r="5" fill="#F5B000"/><circle cx="94" cy="70" r="5" fill="#D6456B"/><circle cx="114" cy="70" r="5" fill="#7A80B8"/>
+<rect x="72" y="112" width="96" height="16" rx="8" fill="#1B1F4B"/>
+<rect x="420" y="108" width="220" height="24" rx="12" fill="#E3E6F7"/><circle cx="700" cy="120" r="12" fill="#F5B000"/>
+<rect x="72" y="158" width="100" height="10" rx="5" fill="#1B1F4B"/>
+<g fill="#C9CDF2"><rect x="72" y="184" width="84" height="8" rx="4"/><rect x="72" y="206" width="70" height="8" rx="4"/><rect x="72" y="228" width="92" height="8" rx="4"/><rect x="72" y="250" width="60" height="8" rx="4"/></g>
+<rect x="72" y="290" width="100" height="10" rx="5" fill="#1B1F4B"/>
+<g fill="#C9CDF2"><rect x="72" y="316" width="76" height="8" rx="4"/><rect x="72" y="338" width="88" height="8" rx="4"/><rect x="72" y="360" width="64" height="8" rx="4"/></g>
+<rect x="72" y="400" width="96" height="30" rx="6" fill="#F5B000"/>
+<rect x="210" y="156" width="150" height="150" rx="10" fill="#FBE3E9"/><use href="#dress" transform="translate(285 231)" fill="#D6456B"/>
+<rect x="372" y="156" width="150" height="150" rx="10" fill="#D5D9F2"/><use href="#kurta" transform="translate(447 231)" fill="#1B1F4B"/>
+<rect x="534" y="156" width="150" height="150" rx="10" fill="#FFF1CC"/><use href="#trousers" transform="translate(609 231)" fill="#F5B000"/>
+<rect x="210" y="352" width="150" height="150" rx="10" fill="#D5D9F2"/><use href="#kurta" transform="translate(285 427)" fill="#3A3F8F"/>
+<rect x="372" y="352" width="150" height="150" rx="10" fill="#FFF1CC"/><use href="#dress" transform="translate(447 427)" fill="#E09A00"/>
+<rect x="534" y="352" width="150" height="150" rx="10" fill="#FBE3E9"/><use href="#trousers" transform="translate(609 427)" fill="#D6456B"/>
+<g fill="#1B1F4B"><rect x="210" y="316" width="96" height="8" rx="4"/><rect x="372" y="316" width="84" height="8" rx="4"/><rect x="534" y="316" width="104" height="8" rx="4"/><rect x="210" y="512" width="90" height="8" rx="4"/><rect x="372" y="512" width="100" height="8" rx="4"/><rect x="534" y="512" width="78" height="8" rx="4"/></g>
+<g fill="#7A80B8"><rect x="210" y="330" width="44" height="7" rx="3.5"/><rect x="372" y="330" width="44" height="7" rx="3.5"/><rect x="534" y="330" width="44" height="7" rx="3.5"/><rect x="210" y="526" width="44" height="7" rx="3.5"/><rect x="372" y="526" width="44" height="7" rx="3.5"/><rect x="534" y="526" width="44" height="7" rx="3.5"/></g>
+</svg>
